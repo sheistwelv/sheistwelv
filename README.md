@@ -20,7 +20,7 @@ I'm a passionate developer with experience in **Python**, **C**, and **C++**. I 
 
 
 ## 📬 How to Reach Me
-- 📧 Email: [sheistwelf@gmail.com(mailto:youremail@example.com)
+- 📧 Email: [sheistwelf@gmail.com
 - 🐦 Twitter: [@SheISTwelv](https://twitter.com/your_twitter_handle)
 - 📸 Instagram: [@chefo.not.here](https://www.instagram.com/your_instagram_username/)
 - ![Berserk GIF](https://media.giphy.com/media/BTTMYChrxIjbE2eChn/giphy.gif)
